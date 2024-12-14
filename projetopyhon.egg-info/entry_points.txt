@@ -1,0 +1,2 @@
+[console_scripts]
+analise_sentimentos = main:main

@@ -1,0 +1,8 @@
+README.md
+setup.py
+projetopyhon.egg-info/PKG-INFO
+projetopyhon.egg-info/SOURCES.txt
+projetopyhon.egg-info/dependency_links.txt
+projetopyhon.egg-info/entry_points.txt
+projetopyhon.egg-info/requires.txt
+projetopyhon.egg-info/top_level.txt
