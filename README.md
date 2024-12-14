@@ -3,13 +3,13 @@
 Este pacote permite realizar análises de sentimentos, processar dados de tweets, identificar padrões temporais, analisar sentimentos associados a companhias aéreas e fornecer insights como percentuais
 de sentimentos, o maior número de tweets positivos e análises baseadas em dados temporais.
 
-##Funcionalidades  
+Funcionalidades  
 
-### 1: Leitura de Dados**  
+1: Leitura de Dados**  
 - Leitura de um arquivo CSV com dados de tweets.  
 - Estruturação e tratamento adequado dos dados carregados.  
 
-### 2: Análise de Sentimento**  
+2: Análise de Sentimento**  
 Funções para:  
 - Contar o número total de tweets por sentimento (**positivo**, **negativo**, **neutro**).  
 - Calcular a percentagem de cada tipo de sentimento para cada companhia aérea.  
@@ -18,7 +18,7 @@ Funções para:
 
 ---
 
-### 3: Análise de Companhias Aéreas**  
+3: Análise de Companhias Aéreas**  
 Funções para:  
 - Listar todas as companhias aéreas mencionadas no dataset.  
 - Identificar a companhia com mais tweets negativos.  
@@ -27,30 +27,15 @@ Funções para:
 
 ---
 
-### 4: Processamento Temporal**  
+4: Processamento Temporal**  
 Funções para análise de padrões temporais:  
 - Identificar o dia com maior número de tweets.  
 - Contar quantos tweets foram postados em um determinado mes ou ano.
 
 ---
 
-### 5:  Exceções e Logs**  
+5:  Exceções e Logs**  
 - O sistema captura erros na leitura do arquivo.  
 - Registra eventos importantes no processo de execução, como início da leitura do CSV, erros e conclusão da análise no **log.txt**.
 
----
-
-## Instalação  
-
-Clone o repositório e instale as dependências:
-
-bash
-# Clone o repositório
-git clone //////// adiconar o link do repor
-
-# Acesse o diretório do projeto
-cd analise_sentimentos
-
-# Instale as dependências
-pip install -e .
 
